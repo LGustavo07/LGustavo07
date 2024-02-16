@@ -13,4 +13,4 @@ I'm a web Developer. And, I'm studyng web evelopment.
 
 #### Contacts
 - ✉️ Email: luisgustavobarbosa@hotmail.com
-- Linkedin: https://www.linkedin.com/in/luis-gustavo-barbosa/
+- 🧑🏻‍💻Linkedin: https://www.linkedin.com/in/luis-gustavo-barbosa/
