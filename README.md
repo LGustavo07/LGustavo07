@@ -19,7 +19,7 @@
 
 💻 I love writing code and learning everything about it.
 
-💬 Ask me anything <a href="https://github.com/LGustavo07/issues" title="Issues">Here.</a>
+💬 Ask me anything <a href="//github.com/LGustavo07/LGustavo07/issues" title="Issues">Here.</a>
 <br>
 
 📫 How to contact me: <a href="mailto: luisgustavobarbosa@hotmail.com">luisgustavobarbosa@hotmail.com.</a>
