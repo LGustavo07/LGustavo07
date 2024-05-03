@@ -10,20 +10,19 @@
   <code><a href="https://www.linkedin.com/in/luis-gustavo-barbosa/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/l_barbosa90/)" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
-<br>
-<p align="center">
- Olá, sou Luis Gustavo, desenvolvedor de software , e apaixonado por tecnologia.
- 
+<br><p align="center">
+ Hello, I'm Luis Gustavo, software developer, and passionate about technology.
+
  <br>
 
- 🔬 Atualmente estou estudando Análise e desenvolvimento de software.
+ 🔬 I'm currently studying Software Analysis and Development.
 
-💻 Adoro escrever código e aprender tudo sobre isso.
+💻 I love writing code and learning everything about it.
 
-💬 Pergunte-me qualquer coisa <a href="https://github.com/https://github.com/LGustavo07/issues" title="Issues">Aqui.</a>
+💬 Ask me anything <a href="https://github.com/https://github.com/LGustavo07/issues" title="Issues">Here.</a>
 <br>
 
-📫 Como entrar em contato comigo: <a href="mailto: luisgustavobarbosa@hotmail.com">luisgustavobarbosa@hotmail.com.</a>
+📫 How to contact me: <a href="mailto: luisgustavobarbosa@hotmail.com">luisgustavobarbosa@hotmail.com.</a>
 
 </p>
 
